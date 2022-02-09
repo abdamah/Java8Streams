@@ -3,7 +3,7 @@ package com.riigsoft.test;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.riigsoft.filter.Product;
+import com.riigsoft.model.Product;
 
 public class FilterTestWithoutStream {
 	  private static List < Product > prodList = new ArrayList < Product > ();

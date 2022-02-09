@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.riigsoft.filter.Product;
+import com.riigsoft.model.Product;
 
 public class FilterTestWithStream {
 	 private static List < Product > prodList = new ArrayList < Product > ();

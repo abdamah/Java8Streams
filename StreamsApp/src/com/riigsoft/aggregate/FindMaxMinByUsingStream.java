@@ -3,7 +3,7 @@ package com.riigsoft.aggregate;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.riigsoft.filter.Product;
+import com.riigsoft.model.Product;
 
 public class FindMaxMinByUsingStream {
 

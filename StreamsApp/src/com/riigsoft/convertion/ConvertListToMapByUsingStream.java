@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-import com.riigsoft.filter.Product;
+import com.riigsoft.model.Product;
 
 public class ConvertListToMapByUsingStream {
 	public static void main(String[] args) {
