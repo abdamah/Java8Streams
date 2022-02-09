@@ -1,4 +1,4 @@
-package com.riigsoft.filter;
+package com.riigsoft.model;
 
 public class Product {
 	private int id;
